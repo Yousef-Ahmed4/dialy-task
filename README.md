@@ -1,6 +1,8 @@
 # student_attendance
 
-A new Flutter project.
+A new Flutter project depends on QR code to
+make it easy to professor or teacher to take attendance to student without any trouble.
+
 
 ## Getting Started
 
